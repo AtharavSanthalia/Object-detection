@@ -1,0 +1,45 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+a
+{
+    float: right;
+    color: rgb(255, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(0, 255, 221);
+    margin: 5px;
+    font-size: 20px !important;
+    cursor:pointer ;
+    
+}
+
+h2
+{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover {
+    color:yellow !important;
+
+}
